@@ -24,7 +24,7 @@ Contacts
 About me
 - ⚽🏀🎾 Enjoy any kind of sport
 - 🥩🥬🍕 Foodie
-- 🎿🥾🏔 Skiing, Hiking, Mountain
+- 🎿🥾🏔 Spending time in the mountains
 
 <!--
 **federico-carrara/federico-carrara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
