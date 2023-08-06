@@ -6,7 +6,7 @@ Currently, I am an exchange student at **ETH Zurich** for my master's thesis pro
 If you are here, I presume you want to take a peep at the past projects that I worked on. I hope you can find something interesting!
 
 Projects
--
+- 
 -
 -
 -
