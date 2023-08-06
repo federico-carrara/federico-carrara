@@ -1,17 +1,30 @@
 ### Hi there, I am glad you are visiting my profile 👋
 
-I am a creative and ambitious 25 years old data and AI enthusiast. Currently, I am in my last year as a Mathematical Engineering master's student at Politecnico di Milano. 
+I am a creative and ambitious data and AI enthusiast, pursuing a Master's degree in **Mathematical Engineering** at **Politecnico di Milano**.
+Currently, I am an exchange student at **ETH Zurich** for my master's thesis project entitled *"Deep learning-driven image analysis of epithelial tissues structure and organization"*.
 
-My engineering background has certainly served me well in learning technical skills in advanced mathematics, statistics, AI, and coding (R, Python, SQL), as well as in cultivating abilities such as problem-solving, organization, and analytical reasoning.
+If you are here, I presume you want to take a peep at the past projects that I worked on. I hope you can find something interesting!
 
-In particular, during my studies, I became really fascinated by the potential of Deep Learning and hence I am eager to deepen my knowledge in this field. 
-Among the extraordinary variety of fields in which the application of analytics and AI can be a revolutionary tool, I am extremely interested in applications in the biomedical sector (e.g.,  personalized medicine), professional sports (e.g., performance analysis, scouting), and social media analysis. 
+Projects
+-
+-
+-
+-
 
-At the moment I am looking for an internship in an innovative and stimulating environment where to develop my thesis and kickstart my career.
+Looking for
+- 💻 Internship / Junior position
+- 📊 Data Scientist / Machine Learning Engineer
+- 🚀 Research projects
 
-In my free time, I am a serial BBQer and pizza maker. I love (almost) every sport and I am a nerd about statistics of teams and players.
+Contacts
+- https://www.linkedin.com/in/federico-carrara/
+- 📧 `federico1.carrara@mail.polimi.it (institutional)`
+- 📧 `fede1502@gmail.com (personal)`
 
-
+About me
+- ⚽🏀🎾 Enjoy any kind of sport
+- 🥩🥬🍕 Foodie
+- 🎿🥾🏔 Skiing, Hiking, Mountain
 
 <!--
 **federico-carrara/federico-carrara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
