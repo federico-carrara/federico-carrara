@@ -1,4 +1,4 @@
-### Hi there, I am glad you are visiting my profile 👋
+### Hi there, I'm glad you're visiting my profile 👋
 
 I am a creative and ambitious data and AI enthusiast, pursuing a Master's degree in **Mathematical Engineering** at **Politecnico di Milano**.
 
