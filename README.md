@@ -18,8 +18,8 @@ Looking for
 
 Contacts
 - https://www.linkedin.com/in/federico-carrara/
-- 📧 `federico1.carrara@mail.polimi.it (institutional)`
-- 📧 `fede1502@gmail.com (personal)`
+- 📧 `federico1.carrara@mail.polimi.it` (institutional)
+- 📧 `fede1502@gmail.com` (personal)
 
 About me
 - ⚽🏀🎾 Enjoy any kind of sport
