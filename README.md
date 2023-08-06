@@ -1,6 +1,7 @@
 ### Hi there, I am glad you are visiting my profile 👋
 
 I am a creative and ambitious data and AI enthusiast, pursuing a Master's degree in **Mathematical Engineering** at **Politecnico di Milano**.
+
 Currently, I am an exchange student at **ETH Zurich** for my master's thesis project entitled *"Deep learning-driven image analysis of epithelial tissues structure and organization"*.
 
 If you are here, I presume you want to take a peep at the past projects that I worked on. I hope you can find something interesting!
