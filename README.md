@@ -11,7 +11,7 @@ Please take a peep at the past projects that I worked on in the links below. I h
 
 - [FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation](https://github.com/federico-carrara/FoldingNet) (master's thesis)
 - [EpiStats: a pipeline to collect morphological statistics from segmented images of 3D epithelial tissues]() (master's thesis)
-- [Recognition of anomalous heartbeats in ECG signals](https://github.com/federico-carrara/Anomaly_Recognition_in_ECG_signals)
+- [Arrhytmias recognition from the analysis of ECG signals](https://github.com/federico-carrara/Anomaly_Recognition_in_ECG_signals)
 - [Art Therapy for Parkinson's disease: data analysis of therapy outcomes](https://github.com/federico-carrara/Art_Therapy_Project/blob/main/README.md)
 
 <h3 align="left">Currently looking for:</h3>
