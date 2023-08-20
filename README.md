@@ -11,6 +11,7 @@ Please take a peep at my past projects. I hope you can find something interestin
 
 - [FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation](https://github.com/federico-carrara/FoldingNet) (master's thesis)
 - [EpiStats: a pipeline to collect morphological statistics from segmented images of 3D epithelial tissues](https://github.com/AntanasMurelis/EpiStats) (master's thesis)
+- [BiDAF: Bi-Directional Attention Flow network for SQuAD 2.0](https://github.com/NLP-course-project-2023/BiDAF)
 - [Arrhytmias recognition from the analysis of ECG signals](https://github.com/federico-carrara/Anomaly_Recognition_in_ECG_signals)
 - [Art Therapy for Parkinson's disease: data analysis of therapy outcomes](https://github.com/federico-carrara/Art_Therapy_Project/blob/main/README.md)
 
