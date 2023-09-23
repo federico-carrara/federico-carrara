@@ -24,7 +24,8 @@ Please take a peep at my past projects. I hope you can find something interestin
 <h3 align="left">Contact me:</h3>
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-carrara/)
-- 📧 `federico1.carrara@mail.polimi.it`
+- 📧 University: `federico1.carrara@mail.polimi.it`
+- 📧 Personal: `federico.carrara0297@gmail.com`
 
 <h3 align="left">About me:</h3>
 
