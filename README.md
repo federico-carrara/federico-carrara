@@ -14,10 +14,10 @@ Please take a peep at my past projects. I hope you can find something interestin
 - [Arrhytmias recognition from the analysis of ECG signals](https://github.com/federico-carrara/Anomaly_Recognition_in_ECG_signals)
 - [Art Therapy for Parkinson's disease: data analysis of therapy outcomes](https://github.com/federico-carrara/Art_Therapy_Project/blob/main/README.md)
 
-<h3 align="left">Currently looking for:</h3>
+<h3 align="left">Current Interests:</h3>
 
-- 💻 Internship / Junior position
-- 📊 Data Scientist / Machine Learning Engineer
+- 💻 Deep Generative Models
+- 📊 Computer Vision Applications in Biomedicine
 - 🚀 Research projects
 
 <h3 align="left">Contact me:</h3>
