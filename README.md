@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, welcome to my GitHub profile 👋</h1>
-<h3 align="center">I'm Federico, creative Data and AI enthusiast from Italy</h3>
+<h3 align="center">I'm Federico, AI researcher in Biomedical Applications from Italy</h3>
 
 I'm an MSc Graduate in **Mathematical Engineering** at **Politecnico di Milano**, previously exchange student at **ETH Zurich** for my master's thesis project entitled *"Deep learning-driven image analysis of epithelial tissues structure and organization"*.
 Currently, I am PhD candidate in AI for Life Science in **Florian Jug's Lab** at **Human Technopole**, Milano, Italy.
